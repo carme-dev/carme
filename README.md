@@ -1,10 +1,10 @@
 <h1 align="center">Hi, 👋 I'm Carme</h1>
 
-- 🔭 I’m currently working on develop my programming skills 
-- 🌱 I’m currently learning Web Frontend Development
-- 📫 How to reach me: [web] https://www.sovatge.dev
-- 😄 Pronouns: she/his/they
-- ⚡ Fun fact: I'm a catperson 
+🔭 I’m currently working on develop my programming skills 
+🌱 I’m currently learning Web Frontend Development
+📫 How to reach me: [web] https://www.sovatge.dev
+😄 Pronouns: she/his/they
+⚡ Fun fact: I'm a catperson 
 
 <!--
 **sovatge/sovatge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
