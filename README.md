@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on develop my programming skills...
 - 🌱 ... and learning Web Frontend Development
-- 📫 How to reach me: [web] https://www.sovatge.dev
+- 📫 How to reach me: [web] sovatge.github.io
 - 😄 Pronouns: she/his/they
 - ⚡ Fun fact: I'm a catperson 
 
