@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I'm Carme</h1>
 
-- 🔭 I’m currently working on develop my programming skills 
-- 🌱 I’m currently learning Web Frontend Development
+- 🔭 I’m currently working on develop my programming skills...
+- 🌱 ... and learning Web Frontend Development
 - 📫 How to reach me: [web] https://www.sovatge.dev
 - 😄 Pronouns: she/his/they
 - ⚡ Fun fact: I'm a catperson 
